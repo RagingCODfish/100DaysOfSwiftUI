@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../100 Days of SwiftUI/WordScramble/WordScramble.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/WeSplit/WeSplit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/WelcomeScreen/WelcomeScreen.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Trekr/Trekr.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/TimeConverter/TimeConverter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/SnowSeeker/SnowSeeker.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Moonshot/Moonshot.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Instafiler/Instafilter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/iExpense/iExpense.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/iDine/iDine.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/HotProspects/HotProspects.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/GuessTheFlag/GuessTheFlag.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Flashzilla/Flashzilla.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/CupcakeCorner/CupcakeCorner.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Converter/Converter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/BucketList/BucketList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Bookworm/Bookworm.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/BetterRest/BetterRest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../100 Days of SwiftUI/Animations/Animations.xcodeproj">
+   </FileRef>
+</Workspace>
